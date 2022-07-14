@@ -1,7 +1,7 @@
 {
-  "name": "practice-react",
+  "name": "react-is-fun",
   "version": "1.0.0",
-  "description": "",
+  "description": "Just for practice",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
